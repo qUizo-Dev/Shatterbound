@@ -1,0 +1,6 @@
+{
+  "item.shatterbound.abysscaller": "Abyss Caller",
+  "item.shatterbound.abysscaller.desc": "Summons the depths of the ocean to shroud your vision",
+  "item.shatterbound.abysscaller.effect_active": "Abyssal Vision Active: %s seconds remaining",
+  "item.shatterbound.abysscaller.effect_ended": "Abyssal Vision has faded"
+}
